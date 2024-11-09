@@ -33,14 +33,15 @@ body {
   .speaker-card {
     flex: 0 0 auto;
     width: 200px;
-    padding: 16px;
-    background: #cbb6b6;
+    padding: 80px;
+    background: #c79494;
     border-radius: 16px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     text-align: center;
     cursor: pointer;
     scroll-snap-align: start;
     transition: transform 0.2s ease-in-out;
+    
   }
   
   .speaker-card:hover {
